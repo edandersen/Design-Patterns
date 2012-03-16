@@ -1,0 +1,7 @@
+E:\DesignPatterns\ObserverPattern\FunnyExample\bin\Debug\FunnyExample.exe
+E:\DesignPatterns\ObserverPattern\FunnyExample\bin\Debug\FunnyExample.pdb
+E:\DesignPatterns\ObserverPattern\FunnyExample\bin\Debug\ObserverPattern.exe
+E:\DesignPatterns\ObserverPattern\FunnyExample\bin\Debug\ObserverPattern.pdb
+E:\DesignPatterns\ObserverPattern\FunnyExample\obj\x86\Debug\FunnyExample.csprojResolveAssemblyReference.cache
+E:\DesignPatterns\ObserverPattern\FunnyExample\obj\x86\Debug\FunnyExample.exe
+E:\DesignPatterns\ObserverPattern\FunnyExample\obj\x86\Debug\FunnyExample.pdb

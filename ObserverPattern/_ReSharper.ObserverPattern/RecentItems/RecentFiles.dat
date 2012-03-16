@@ -1,0 +1,51 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="486F8FCE-5CE8-4023-A3BF-6425E12AB747/d:Plumbing/f:Subject.cs" caret="1472" fromTop="22" />
+    <File id="486F8FCE-5CE8-4023-A3BF-6425E12AB747/d:Clock/f:ClockSubject.cs" caret="702" fromTop="11" />
+    <File id="486F8FCE-5CE8-4023-A3BF-6425E12AB747/d:Clock/f:ClockState.cs" caret="727" fromTop="9" />
+    <File id="486F8FCE-5CE8-4023-A3BF-6425E12AB747/d:ClockObservers/f:IConsoleClock.cs" caret="523" fromTop="7" />
+    <File id="486F8FCE-5CE8-4023-A3BF-6425E12AB747/d:Plumbing/f:IObserver.cs" caret="0" fromTop="0" />
+    <File id="486F8FCE-5CE8-4023-A3BF-6425E12AB747/d:ClockObservers/f:GMTConsoleClock.cs" caret="1458" fromTop="13" />
+    <File id="486F8FCE-5CE8-4023-A3BF-6425E12AB747/d:ClockObservers/f:SecondsCountingConsoleClock.cs" caret="1072" fromTop="24" />
+    <File id="486F8FCE-5CE8-4023-A3BF-6425E12AB747/f:Program.cs" caret="1431" fromTop="44" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/d:Manager/f:ManagerState.cs" caret="85" fromTop="4" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/d:Manager/f:ManagerSubject.cs" caret="476" fromTop="20" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/d:Employees/f:IConsoleEmployee.cs" caret="118" fromTop="4" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/d:Employees/f:APlayerEmployee.cs" caret="557" fromTop="21" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/d:Employees/f:BPlayerEmployee.cs" caret="503" fromTop="19" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/f:Program.cs" caret="537" fromTop="8" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/d:Employees/f:CPlayerEmployee.cs" caret="953" fromTop="29" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/d:Manager/f:ManagerState.cs" caret="169" fromTop="8" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/d:Manager/f:ManagerSubject.cs" caret="311" fromTop="11" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/d:Manager/f:ManagerSubject.cs" caret="296" fromTop="13" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/d:Manager/f:ManagerSubject.cs" caret="465" fromTop="20" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/d:Manager/f:ManagerSubject.cs" caret="597" fromTop="25" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/d:Employees/f:IConsoleEmployee.cs" caret="28" fromTop="0" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/d:Employees/f:APlayerEmployee.cs" caret="398" fromTop="17" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/d:Employees/f:APlayerEmployee.cs" caret="870" fromTop="34" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/d:Employees/f:APlayerEmployee.cs" caret="896" fromTop="39" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/d:Employees/f:APlayerEmployee.cs" caret="785" fromTop="34" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/d:Employees/f:APlayerEmployee.cs" caret="641" fromTop="30" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/d:Employees/f:APlayerEmployee.cs" caret="398" fromTop="15" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/d:Employees/f:APlayerEmployee.cs" caret="398" fromTop="15" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/d:Employees/f:BPlayerEmployee.cs" caret="628" fromTop="20" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/d:Employees/f:BPlayerEmployee.cs" caret="501" fromTop="18" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/d:Employees/f:BPlayerEmployee.cs" caret="1092" fromTop="34" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/d:Employees/f:BPlayerEmployee.cs" caret="1249" fromTop="39" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/d:Employees/f:BPlayerEmployee.cs" caret="965" fromTop="36" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/d:Employees/f:BPlayerEmployee.cs" caret="1265" fromTop="47" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/d:Employees/f:BPlayerEmployee.cs" caret="769" fromTop="29" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/f:Program.cs" caret="1739" fromTop="41" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/f:Program.cs" caret="863" fromTop="21" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/f:Program.cs" caret="1399" fromTop="30" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/f:Program.cs" caret="1224" fromTop="26" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/d:Employees/f:CPlayerEmployee.cs" caret="361" fromTop="14" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/d:Employees/f:CPlayerEmployee.cs" caret="535" fromTop="20" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/d:Employees/f:CPlayerEmployee.cs" caret="1122" fromTop="37" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/d:Employees/f:CPlayerEmployee.cs" caret="1000" fromTop="32" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/d:Employees/f:CPlayerEmployee.cs" caret="953" fromTop="29" />
+    <File id="F8F28AE2-A664-41FF-B444-92F5E5B0AB21/f:Program.cs" caret="758" fromTop="16" />
+  </RecentEdits>
+</RecentFiles>

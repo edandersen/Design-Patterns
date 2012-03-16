@@ -1,0 +1,5 @@
+E:\DesignPatterns\AdapterExample\AdapterExample\bin\Debug\AdapterExample.exe
+E:\DesignPatterns\AdapterExample\AdapterExample\bin\Debug\AdapterExample.pdb
+E:\DesignPatterns\AdapterExample\AdapterExample\obj\x86\Debug\AdapterExample.csprojResolveAssemblyReference.cache
+E:\DesignPatterns\AdapterExample\AdapterExample\obj\x86\Debug\AdapterExample.exe
+E:\DesignPatterns\AdapterExample\AdapterExample\obj\x86\Debug\AdapterExample.pdb
